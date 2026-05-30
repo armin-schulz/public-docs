@@ -1,0 +1,33 @@
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.log
+*.lot
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+
+# Build/output directories
+out/
+texs/out/
+
+# Generated PDFs
+bericht.pdf
+declaration.pdf
+
+# Temporary/editor files
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+.DS_Store
+.clj-kondo/
+.lsp/
+.vscode/
