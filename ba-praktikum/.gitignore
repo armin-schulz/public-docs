@@ -17,10 +17,6 @@
 out/
 texs/out/
 
-# Generated PDFs
-bericht.pdf
-declaration.pdf
-
 # Temporary/editor files
 *.tmp
 *.bak
