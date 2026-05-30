@@ -26,7 +26,6 @@ declaration.pdf
 *.bak
 *.swp
 *.swo
-*~
 .DS_Store
 .clj-kondo/
 .lsp/
